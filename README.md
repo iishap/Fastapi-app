@@ -1,10 +1,10 @@
 
 
-# 🚀 FastAPI Trading Orders API  
+#  FastAPI Trading Orders API  
 
 A simple FastAPI-based REST API that allows users to submit and retrieve trade orders. It supports WebSocket for real-time updates and is containerized using Docker. The application uses PostgreSQL as the database and is deployed on AWS EC2.  
 
-## 📌 Features  
+##  Features  
 
 - **REST API:**  
   - `POST /orders/` → Submit a trade order  
@@ -126,9 +126,5 @@ Connect to WebSocket at:
 
 Send and receive real-time order updates.  
 
-## 🎯 Future Improvements  
 
-- Add authentication (JWT)  
-- Implement CI/CD pipeline  
-- Improve WebSocket functionality  
 
